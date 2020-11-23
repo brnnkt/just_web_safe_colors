@@ -1,0 +1,27 @@
+{
+  "name": "just_web_safe_colors",
+  "version": "1.0.0",
+  "description": "Web Safe Colors List",
+  "main": "web_safe_colors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brnnkt/just_web_safe_colors.git"
+  },
+  "keywords": [
+    "css",
+    "colors",
+    "hex"
+  ],
+  "author": "brnnkt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brnnkt/just_web_safe_colors/issues"
+  },
+  "homepage": "https://github.com/brnnkt/just_web_safe_colors#readme",
+  "dependencies": {
+    "just_web_safe_colors": "^1.0.0"
+  }
+}
