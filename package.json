@@ -1,6 +1,6 @@
 {
   "name": "just_web_safe_colors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Web Safe Colors List",
   "main": "web_safe_colors.js",
   "scripts": {
