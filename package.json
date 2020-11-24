@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/brnnkt/just_web_safe_colors/issues"
   },
-  "homepage": "https://github.com/brnnkt/just_web_safe_colors#readme",
-  "dependencies": {
-    "just_web_safe_colors": "^1.0.0"
-  }
+  "homepage": "https://github.com/brnnkt/just_web_safe_colors#readme"
 }
